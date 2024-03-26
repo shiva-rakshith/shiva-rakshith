@@ -6,7 +6,11 @@
 </p>
 
 ## 💫 About Me:
-I am a full-stack, data and devops engineer. I have worked on buidling digital public goods like [sunbird](https://sunbird.org/product/building-blocks) and open networks like [HCX](https://hcxprotocol.io/), [Beckn](https://becknprotocol.io/), [ONEST](https://onest.network/).
+I have a passion for software development with a diverse skillset ranging from the full-stack, data and devops to a stronghold on data structures and algorithms to solve real life problems.
+
+I have worked on buidling digital public goods like [sunbird](https://sunbird.org/product/building-blocks) and open networks like [HCX](https://hcxprotocol.io/), [Beckn](https://becknprotocol.io/), [ONEST](https://onest.network/).
+
+I am a open-source contributor and maintainer of [ONEST Specification](https://github.com/ONEST-Network/ONEST-Specification)
 
 ## 🌐 Socials:
 <p align="center">
